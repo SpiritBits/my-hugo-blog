@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://192.168.178.62:1313/tags/blog/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 14:24:20 +0100</lastBuildDate>
+    <atom:link href="http://192.168.178.62:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nginx</title>
+      <link>http://192.168.178.62:1313/blog/nginx/</link>
+      <pubDate>Mon, 29 Dec 2025 14:24:20 +0100</pubDate>
+      <guid>http://192.168.178.62:1313/blog/nginx/</guid>
+      <description>&lt;p&gt;Here is a wonderful Picture:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../albot.png&#34; alt=&#34;Albot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is the nginx Blog&lt;/p&gt;&#xA;&lt;p&gt;How to set up a reverse Proxy with nginx&lt;/p&gt;&#xA;&lt;p&gt;See my &lt;a href=&#34;../../about&#34;&gt;about page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

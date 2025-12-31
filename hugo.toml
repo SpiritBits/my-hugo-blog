@@ -1,0 +1,22 @@
+baseURL = '/'
+relativeURLs = true
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'terminal'
+
+[permalinks]
+  [permalinks.page]
+    crafts = '/crafts/:slug'
+    howtos = '/howtos/:slug'
+  [permalinks.section]
+    crafts = '/crafts/'
+    howtos = '/howtos/'
+
+[params]
+  showMenuItems = 0
+  centerTheme = false
+
+# [[menu.main]]
+  # name = "Blog"
+  # url = "/blog/"
+  # weight = 10
