@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musictheory on My New Hugo Site</title>
+    <link>//localhost:1313/tags/musictheory/</link>
+    <description>Recent content in Musictheory on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/musictheory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Melancholic Elements</title>
+      <link>//localhost:1313/posts/dramatik-melancholie-akkordfolgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/dramatik-melancholie-akkordfolgen/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://pihole:86/197ac768-74ab-46db-8ec2-f423173eb670.png&#34; alt=&#34;Alt-Tag: Silhouette einer Person, die in einem verschwommenen, blauen Raum sitzt, umgeben von geschwungenen Musiknoten und Klangwellen.&#34;&gt;&#xA;Dramatische und melancholische Akkordfolgen erzeugen Spannungen und lösen Gefühle von Traurigkeit oder Schwermut aus. Die verwendeten Tonschlüssel können variieren, aber einige gängige Tonschlüssel für diese Art von Akkordfolgen sind Moll-Tonarten wie Am, Em oder Dm.&lt;/p&gt;&#xA;&lt;p&gt;Hier sind einige Beispiele für dramatische und melancholische Akkordfolgen:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dramatisch:&lt;/p&gt;&#xA;&lt;p&gt;i) Am - F - E (A Moll, F Dur, E Dur)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

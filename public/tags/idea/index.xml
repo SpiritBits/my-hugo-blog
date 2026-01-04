@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on My New Hugo Site</title>
+    <link>//localhost:1313/tags/idea/</link>
+    <description>Recent content in Idea on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 18:22:36 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodingPilot</title>
+      <link>//localhost:1313/crafts/coding-pilot/</link>
+      <pubDate>Mon, 29 Dec 2025 18:22:36 +0100</pubDate>
+      <guid>//localhost:1313/crafts/coding-pilot/</guid>
+      <description>&lt;h1 id=&#34;my-coding-pilot-seat&#34;&gt;My Coding Pilot Seat&lt;/h1&gt;&#xA;&lt;p&gt;Build for pure comfort in a relaxing environment.&#xA;Take some time out and build something useful with this zen like beautiful coding pilot seat.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

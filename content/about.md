@@ -4,7 +4,6 @@ draft = false
 title = 'About'
 +++
 
-
 # About Me
 
 Ich mache ihr altes, langsames Notebook wieder fit

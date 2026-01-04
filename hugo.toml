@@ -4,6 +4,9 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
 
+[taxonomies]
+  tag = 'tags'
+
 [permalinks]
   [permalinks.page]
     crafts = '/crafts/:slug'

@@ -2,38 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content on My New Hugo Site</title>
-    <link>http://192.168.178.62:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://192.168.178.62:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Dec 2025 18:48:19 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>//localhost:1313/ai-stories/hello/</link>
+      <pubDate>Mon, 29 Dec 2025 18:48:19 +0100</pubDate>
+      <guid>//localhost:1313/ai-stories/hello/</guid>
+      <description>&lt;h1 id=&#34;hey-ich-bins-wieder&#34;&gt;Hey, ich bins wieder&lt;/h1&gt;&#xA;&lt;p&gt;mit irgendnem random stuff&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nginx</title>
-      <link>http://192.168.178.62:1313/posts/howtos/how-to-nginx/</link>
+      <link>//localhost:1313/posts/how-to-nginx/</link>
       <pubDate>Mon, 29 Dec 2025 18:48:19 +0100</pubDate>
-      <guid>http://192.168.178.62:1313/posts/howtos/how-to-nginx/</guid>
+      <guid>//localhost:1313/posts/how-to-nginx/</guid>
       <description>&lt;h1 id=&#34;how-to-build-a-reverse-proxy-with-nginx&#34;&gt;How To build a reverse Proxy with nginx&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Install nginx&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo pacman -S nginx&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Create the pagefile&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo mkdir /etc/nginx/sites-available&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo touch /etc/nginx/sites-available/hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-file&#34; data-lang=&#34;file&#34;&gt;server {&#xA;  listen 80;&#xA;  server_name localhost;&#xA;&#xA;  location / {&#xA;    proxy_pass http://127.0.0.1:1313;&#xA;  }&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo mkdir /etc/nginx/sites-enabled&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo ln -s /etc/nginx/sites-available/hugo /etc/nginx/sites-enabled/hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl restart nginx&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;This didnt work well, did nothing&#xA;I&amp;rsquo;ve edited the &lt;em&gt;/etc/nginx/nginx.conf&lt;/em&gt; file instead.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Now, I got the problem, that my static resource are not delivered to the external Client&lt;/p&gt;</description>
     </item>
     <item>
       <title>CodingPilot</title>
-      <link>http://192.168.178.62:1313/crafts/coding-pilot/</link>
+      <link>//localhost:1313/crafts/coding-pilot/</link>
       <pubDate>Mon, 29 Dec 2025 18:22:36 +0100</pubDate>
-      <guid>http://192.168.178.62:1313/crafts/coding-pilot/</guid>
-      <description></description>
+      <guid>//localhost:1313/crafts/coding-pilot/</guid>
+      <description>&lt;h1 id=&#34;my-coding-pilot-seat&#34;&gt;My Coding Pilot Seat&lt;/h1&gt;&#xA;&lt;p&gt;Build for pure comfort in a relaxing environment.&#xA;Take some time out and build something useful with this zen like beautiful coding pilot seat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blackboard</title>
-      <link>http://192.168.178.62:1313/blackboard/</link>
+      <link>//localhost:1313/blackboard/</link>
       <pubDate>Mon, 29 Dec 2025 08:51:28 +0100</pubDate>
-      <guid>http://192.168.178.62:1313/blackboard/</guid>
+      <guid>//localhost:1313/blackboard/</guid>
       <description>&lt;h1 id=&#34;aktuelle-projekte&#34;&gt;Aktuelle Projekte&lt;/h1&gt;&#xA;&lt;h1 id=&#34;ich-suche&#34;&gt;Ich suche&lt;/h1&gt;&#xA;&lt;p&gt;Eine Wohung zur Miete ab 25 qm&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://192.168.178.62:1313/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Sun, 28 Dec 2025 19:13:20 +0100</pubDate>
-      <guid>http://192.168.178.62:1313/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Ich mache ihr altes, langsames Notebook wieder fit&lt;/p&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Neovim&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>AI-Toilet</title>
+      <link>//localhost:1313/posts/ai-toilette-john-den-wissenden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/ai-toilette-john-den-wissenden/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://pihole:86/f8dd2891-213c-4e96-a151-d4d41c3f0512.png&#34; alt=&#34;Ein futuristisches, beleuchtetes WC mit modernen Bedienelementen und einem eleganten Design in einem stilvollen Badezimmer.&#34;&gt;&#xA;Gelangweilt von herkömmlichen Toiletten? Achten Sie darauf, Ihre Hände immer sauber zu halten? Lieben Sie die Faszination neuester Technologie? Dann sind Sie hier richtig! Lassen Sie mich Ihnen unseren neuesten, glänzenden, intelligentesten Mitbewohner vorstellen - die zukunftsweisende AI-Toilette!&lt;/p&gt;&#xA;&lt;p&gt;Unsere AI-Toilette, auch liebevoll &amp;ldquo;John den Wissenden&amp;rdquo; genannt, setzt neue LED-besetzte Akzente in Ihrem Zuhause. Schluss mit dem Zeitalter, in dem Toilettengänge nur dafür da waren, sich zu erleichtern, denn John den Wissenden ist bereit, das Niveau von Inhalten, die Sie auf dem Porzellanthron konsumieren, erheblich zu erhöhen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Babylons timeless reminder</title>
+      <link>//localhost:1313/posts/babylon-collapse-timeless-reminder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/babylon-collapse-timeless-reminder/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://pihole:86/92d361a5-0026-4572-90b7-913ab62c1daa.png&#34; alt=&#34;Alt-Tag: &amp;ldquo;Fantastische Landschaft mit antiken Ruinen, hohen Bergen im Hintergrund und einem ruhigen Wasserlauf, der die verfallenen Gebäude spiegelt, unter einem wolkigen Himmel.&amp;rdquo;&#34;&gt;&#xA;As Babylon&amp;rsquo;s walls crumbled under the weight of time and neglect, the once thriving city diminished into a shadow of its former glory. The long-standing empire, which once carried immense wealth and influence, now lay in ruins, a testament to the fleeting nature of human dominion.&lt;/p&gt;&#xA;&lt;p&gt;Babylon, often referred to as the gem of Mesopotamian civilization, saw its demise just as surely as it had witnessed its ascendance. Known for the Hanging Gardens, its splendid palatial complexes, and its towering ziggurats that reached for the skies, the icon of human ambition was now nothing more than a vast wasteland of crumbling edifices and broken dreams.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Melancholic Elements</title>
+      <link>//localhost:1313/posts/dramatik-melancholie-akkordfolgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/dramatik-melancholie-akkordfolgen/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://pihole:86/197ac768-74ab-46db-8ec2-f423173eb670.png&#34; alt=&#34;Alt-Tag: Silhouette einer Person, die in einem verschwommenen, blauen Raum sitzt, umgeben von geschwungenen Musiknoten und Klangwellen.&#34;&gt;&#xA;Dramatische und melancholische Akkordfolgen erzeugen Spannungen und lösen Gefühle von Traurigkeit oder Schwermut aus. Die verwendeten Tonschlüssel können variieren, aber einige gängige Tonschlüssel für diese Art von Akkordfolgen sind Moll-Tonarten wie Am, Em oder Dm.&lt;/p&gt;&#xA;&lt;p&gt;Hier sind einige Beispiele für dramatische und melancholische Akkordfolgen:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Dramatisch:&lt;/p&gt;&#xA;&lt;p&gt;i) Am - F - E (A Moll, F Dur, E Dur)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

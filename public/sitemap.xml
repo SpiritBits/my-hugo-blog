@@ -2,29 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.178.62:1313/</loc>
+    <loc>//localhost:1313/ai-stories/</loc>
     <lastmod>2025-12-29T18:48:19+01:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.62:1313/posts/howtos/how-to-nginx/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-12-29T18:48:19+01:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.62:1313/posts/</loc>
+    <loc>//localhost:1313/ai-stories/hello/</loc>
     <lastmod>2025-12-29T18:48:19+01:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.62:1313/posts/crafts/</loc>
+    <loc>//localhost:1313/posts/how-to-nginx/</loc>
+    <lastmod>2025-12-29T18:48:19+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/nginx/</loc>
+    <lastmod>2025-12-29T18:48:19+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/server/</loc>
+    <lastmod>2025-12-29T18:48:19+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-12-29T18:48:19+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-12-29T18:48:19+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/crafts/coding-pilot/</loc>
     <lastmod>2025-12-29T18:22:36+01:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.62:1313/crafts/coding-pilot/</loc>
+    <loc>//localhost:1313/tags/idea/</loc>
     <lastmod>2025-12-29T18:22:36+01:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.62:1313/blackboard/</loc>
+    <loc>//localhost:1313/tags/project/</loc>
+    <lastmod>2025-12-29T18:22:36+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blackboard/</loc>
     <lastmod>2025-12-29T08:51:28+01:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.62:1313/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2025-12-28T19:13:20+01:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.62:1313/categories/</loc>
+    <loc>//localhost:1313/posts/howtos/</loc>
   </url><url>
-    <loc>http://192.168.178.62:1313/tags/</loc>
+    <loc>//localhost:1313/tags/ai/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/ai-toilette-john-den-wissenden/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/babylon-collapse-timeless-reminder/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/crafts/</loc>
+  </url><url>
+    <loc>//localhost:1313/posts/dramatik-melancholie-akkordfolgen/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/musictheory/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/scifun/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/story/</loc>
   </url>
 </urlset>

@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drafts on My New Hugo Site</title>
-    <link>http://192.168.178.62:1313/posts/crafts/</link>
+    <link>//localhost:1313/posts/crafts/</link>
     <description>Recent content in Drafts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Dec 2025 18:22:36 +0100</lastBuildDate>
-    <atom:link href="http://192.168.178.62:1313/posts/crafts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CodingPilot</title>
-      <link>http://192.168.178.62:1313/crafts/coding-pilot/</link>
-      <pubDate>Mon, 29 Dec 2025 18:22:36 +0100</pubDate>
-      <guid>http://192.168.178.62:1313/crafts/coding-pilot/</guid>
-      <description></description>
-    </item>
+    <atom:link href="//localhost:1313/posts/crafts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

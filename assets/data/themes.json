@@ -1,0 +1,32 @@
+{
+  "about": {
+    "bg": "#110e23",
+    "fg": "#d6d8ee",
+    "ac": "#5a69f0"
+  },
+  "posts": {
+    "bg": "#1f0e23",
+    "fg": "#e4d6ee",
+    "ac": "#af5af0"
+  },
+  "blackboard": {
+    "bg": "#230e19",
+    "fg": "#eed6e8",
+    "ac": "#f05acd"
+  },
+  "crafts": {
+    "bg": "#23110e",
+    "fg": "#eed6d8",
+    "ac": "#f05a69"
+  },
+  "howtos": {
+    "bg": "#231f0e",
+    "fg": "#eee4d6",
+    "ac": "#f0af5a"
+  },
+  "scifi": {
+    "bg": "#19230e",
+    "fg": "#e8eed6",
+    "ac": "#cdf05a"
+  }
+}

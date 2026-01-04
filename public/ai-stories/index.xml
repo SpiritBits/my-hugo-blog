@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai-Stories on My New Hugo Site</title>
+    <link>//localhost:1313/ai-stories/</link>
+    <description>Recent content in Ai-Stories on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 18:48:19 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/ai-stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>//localhost:1313/ai-stories/hello/</link>
+      <pubDate>Mon, 29 Dec 2025 18:48:19 +0100</pubDate>
+      <guid>//localhost:1313/ai-stories/hello/</guid>
+      <description>&lt;h1 id=&#34;hey-ich-bins-wieder&#34;&gt;Hey, ich bins wieder&lt;/h1&gt;&#xA;&lt;p&gt;mit irgendnem random stuff&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scifun on My New Hugo Site</title>
+    <link>//localhost:1313/tags/scifun/</link>
+    <description>Recent content in Scifun on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/scifun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Toilet</title>
+      <link>//localhost:1313/posts/ai-toilette-john-den-wissenden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/ai-toilette-john-den-wissenden/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://pihole:86/f8dd2891-213c-4e96-a151-d4d41c3f0512.png&#34; alt=&#34;Ein futuristisches, beleuchtetes WC mit modernen Bedienelementen und einem eleganten Design in einem stilvollen Badezimmer.&#34;&gt;&#xA;Gelangweilt von herkömmlichen Toiletten? Achten Sie darauf, Ihre Hände immer sauber zu halten? Lieben Sie die Faszination neuester Technologie? Dann sind Sie hier richtig! Lassen Sie mich Ihnen unseren neuesten, glänzenden, intelligentesten Mitbewohner vorstellen - die zukunftsweisende AI-Toilette!&lt;/p&gt;&#xA;&lt;p&gt;Unsere AI-Toilette, auch liebevoll &amp;ldquo;John den Wissenden&amp;rdquo; genannt, setzt neue LED-besetzte Akzente in Ihrem Zuhause. Schluss mit dem Zeitalter, in dem Toilettengänge nur dafür da waren, sich zu erleichtern, denn John den Wissenden ist bereit, das Niveau von Inhalten, die Sie auf dem Porzellanthron konsumieren, erheblich zu erhöhen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
