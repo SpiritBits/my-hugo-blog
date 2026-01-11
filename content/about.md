@@ -6,11 +6,16 @@ title = 'About'
 
 # About Me
 
-Ich mache ihr altes, langsames Notebook wieder fit
+Programming Nerd on a holy mission 🚀
+
+
 
 
 # Skills
 
 - Neovim
+- Arch Linux
+- Python
+- Typescript
 
 

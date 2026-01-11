@@ -2,8 +2,7 @@
 title = "Content"
 +++
 
-This is a content file
+# AI Stories
 
-- Crafted with love  ♥️
 
 

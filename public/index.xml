@@ -34,14 +34,14 @@
       <link>//localhost:1313/blackboard/</link>
       <pubDate>Mon, 29 Dec 2025 08:51:28 +0100</pubDate>
       <guid>//localhost:1313/blackboard/</guid>
-      <description>&lt;h1 id=&#34;aktuelle-projekte&#34;&gt;Aktuelle Projekte&lt;/h1&gt;&#xA;&lt;h1 id=&#34;ich-suche&#34;&gt;Ich suche&lt;/h1&gt;&#xA;&lt;p&gt;Eine Wohung zur Miete ab 25 qm&lt;/p&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>About</title>
       <link>//localhost:1313/about/</link>
       <pubDate>Sun, 28 Dec 2025 19:13:20 +0100</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Ich mache ihr altes, langsames Notebook wieder fit&lt;/p&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Neovim&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Programming Nerd on a holy mission 🚀&lt;/p&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Neovim&lt;/li&gt;&#xA;&lt;li&gt;Arch Linux&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;Typescript&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>AI-Toilet</title>
@@ -55,7 +55,7 @@
       <link>//localhost:1313/posts/babylon-collapse-timeless-reminder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/babylon-collapse-timeless-reminder/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://pihole:86/92d361a5-0026-4572-90b7-913ab62c1daa.png&#34; alt=&#34;Alt-Tag: &amp;ldquo;Fantastische Landschaft mit antiken Ruinen, hohen Bergen im Hintergrund und einem ruhigen Wasserlauf, der die verfallenen Gebäude spiegelt, unter einem wolkigen Himmel.&amp;rdquo;&#34;&gt;&#xA;As Babylon&amp;rsquo;s walls crumbled under the weight of time and neglect, the once thriving city diminished into a shadow of its former glory. The long-standing empire, which once carried immense wealth and influence, now lay in ruins, a testament to the fleeting nature of human dominion.&lt;/p&gt;&#xA;&lt;p&gt;Babylon, often referred to as the gem of Mesopotamian civilization, saw its demise just as surely as it had witnessed its ascendance. Known for the Hanging Gardens, its splendid palatial complexes, and its towering ziggurats that reached for the skies, the icon of human ambition was now nothing more than a vast wasteland of crumbling edifices and broken dreams.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://pihole:86/92d361a5-0026-4572-90b7-913ab62c1daa.png&#34; alt=&#34;Alt-Tag: “Fantastische Landschaft mit antiken Ruinen, hohen Bergen im Hintergrund und einem ruhigen Wasserlauf, der die verfallenen Gebäude spiegelt, unter einem wolkigen Himmel.”&#34;&gt;&#xA;As Babylon&amp;rsquo;s walls crumbled under the weight of time and neglect, the once thriving city diminished into a shadow of its former glory. The long-standing empire, which once carried immense wealth and influence, now lay in ruins, a testament to the fleeting nature of human dominion.&lt;/p&gt;&#xA;&lt;p&gt;Babylon, often referred to as the gem of Mesopotamian civilization, saw its demise just as surely as it had witnessed its ascendance. Known for the Hanging Gardens, its splendid palatial complexes, and its towering ziggurats that reached for the skies, the icon of human ambition was now nothing more than a vast wasteland of crumbling edifices and broken dreams.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Melancholic Elements</title>

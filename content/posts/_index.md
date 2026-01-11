@@ -8,6 +8,4 @@ draft = false
         weight = 20
 +++
 
-# This is my blog
 
-Welcome 2 my blog Posts

@@ -4,9 +4,6 @@ draft = false
 title = 'Blackboard'
 +++
 
-# Aktuelle Projekte
 
 
-# Ich suche
 
-Eine Wohung zur Miete ab 25 qm 
